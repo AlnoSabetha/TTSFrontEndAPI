@@ -7,7 +7,7 @@ using System.Net.Http.json;
 
 namespace TTSfront_end.Services
 {
-    public class EmployeesService : IEmployeeService 
+    public class Employees : IEmployeeService 
     {
         private HttpClient _httpClient;
         public EmployeesServices(HttpClient httpClient) {
