@@ -13,70 +13,70 @@ namespace TTSfront_end
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "d:\Front-end (matkul)\TTSfront-end\_Imports.razor"
+#line 1 "D:\Front-end (matkul)\TTSfront-end\_Imports.razor"
 using System.Net.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "d:\Front-end (matkul)\TTSfront-end\_Imports.razor"
+#line 2 "D:\Front-end (matkul)\TTSfront-end\_Imports.razor"
 using System.Net.Http.Json;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "d:\Front-end (matkul)\TTSfront-end\_Imports.razor"
+#line 3 "D:\Front-end (matkul)\TTSfront-end\_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 4 "d:\Front-end (matkul)\TTSfront-end\_Imports.razor"
+#line 4 "D:\Front-end (matkul)\TTSfront-end\_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 5 "d:\Front-end (matkul)\TTSfront-end\_Imports.razor"
+#line 5 "D:\Front-end (matkul)\TTSfront-end\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 6 "d:\Front-end (matkul)\TTSfront-end\_Imports.razor"
+#line 6 "D:\Front-end (matkul)\TTSfront-end\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web.Virtualization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 7 "d:\Front-end (matkul)\TTSfront-end\_Imports.razor"
+#line 7 "D:\Front-end (matkul)\TTSfront-end\_Imports.razor"
 using Microsoft.AspNetCore.Components.WebAssembly.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 8 "d:\Front-end (matkul)\TTSfront-end\_Imports.razor"
+#line 8 "D:\Front-end (matkul)\TTSfront-end\_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 9 "d:\Front-end (matkul)\TTSfront-end\_Imports.razor"
+#line 9 "D:\Front-end (matkul)\TTSfront-end\_Imports.razor"
 using TTSfront_end;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 10 "d:\Front-end (matkul)\TTSfront-end\_Imports.razor"
+#line 10 "D:\Front-end (matkul)\TTSfront-end\_Imports.razor"
 using TTSfront_end.Shared;
 
 #line default

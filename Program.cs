@@ -21,6 +21,7 @@ namespace TTSfront_end
             var uri = new Uri("https://blazorbackend.azurewebsites.net");
             builder.Services.AddScoped(sp => new HttpClient { BaseAddress = uri });
             builder.Services.AddScoped<IDepartmentsSeervice,DepartmentServices>();
+            builder.Services.AddScoped<IEmployeesService,Employees>();
 
             await builder.Build().RunAsync();
         }

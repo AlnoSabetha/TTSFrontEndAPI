@@ -630,3 +630,5 @@ D:\Front-end (matkul)\TTSfront-end\obj\Debug\net5.0\TTSfront-end.csproj.CopyComp
 D:\Front-end (matkul)\TTSfront-end\obj\Debug\net5.0\TTSfront-end.dll
 D:\Front-end (matkul)\TTSfront-end\obj\Debug\net5.0\ref\TTSfront-end.dll
 D:\Front-end (matkul)\TTSfront-end\obj\Debug\net5.0\TTSfront-end.pdb
+D:\Front-end (matkul)\TTSfront-end\obj\Debug\net5.0\RazorDeclaration\Pages\Department.razor.g.cs
+D:\Front-end (matkul)\TTSfront-end\obj\Debug\net5.0\RazorDeclaration\Pages\Employee.razor.g.cs
