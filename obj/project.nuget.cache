@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4++TucSy4QNMS7B0Vyi9TUkO2IWzMxgcYj2psuMPTRjfO0k/cIzmA9MVmf71uy0v2LOZzgCKM8dmhWAQ5Onv3g==",
+  "dgSpecHash": "pOvb/4Zfm/Eu/1QYyjs/KiWzqKp3J8BzdvjrTqfmB1fsfIiTyExtLygpL1joYIRU09rL3Y5XEoCcPT9cOt4llQ==",
   "success": true,
-  "projectFilePath": "D:\\Front-end (matkul)\\TTSfront-end\\TTSfront-end.csproj",
+  "projectFilePath": "d:\\Front-end (matkul)\\TTSfront-end\\TTSfront-end.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chame\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.9\\microsoft.aspnetcore.authorization.5.0.9.nupkg.sha512",
     "C:\\Users\\chame\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.9\\microsoft.aspnetcore.components.5.0.9.nupkg.sha512",

@@ -8,39 +8,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 150433799,
-        "Kind": "Components.Component",
-        "Name": "TTSfront_end.App",
-        "AssemblyName": "TTSfront-end",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TTSfront_end.App"
-        }
-      },
-      {
-        "HashCode": -722915642,
-        "Kind": "Components.Component",
-        "Name": "TTSfront_end.App",
-        "AssemblyName": "TTSfront-end",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "TTSfront_end.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TTSfront_end.App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -1826092535,
         "Kind": "Components.Component",
         "Name": "TTSfront_end.Pages.Counter",
@@ -140,35 +107,101 @@
         }
       },
       {
-        "HashCode": 603107375,
+        "HashCode": -64290331,
         "Kind": "Components.Component",
-        "Name": "TTSfront_end.Pages.department",
+        "Name": "TTSfront_end.Pages.Department",
         "AssemblyName": "TTSfront-end",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "department"
+            "TagName": "Department"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TTSfront_end.Pages.department"
+          "Common.TypeName": "TTSfront_end.Pages.Department"
         }
       },
       {
-        "HashCode": -1103560832,
+        "HashCode": -139456935,
         "Kind": "Components.Component",
-        "Name": "TTSfront_end.Pages.department",
+        "Name": "TTSfront_end.Pages.Department",
         "AssemblyName": "TTSfront-end",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "TTSfront_end.Pages.department"
+            "TagName": "TTSfront_end.Pages.Department"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TTSfront_end.Pages.department",
+          "Common.TypeName": "TTSfront_end.Pages.Department",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -388431996,
+        "Kind": "Components.Component",
+        "Name": "TTSfront_end.Pages.Employees",
+        "AssemblyName": "TTSfront-end",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Employees"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TTSfront_end.Pages.Employees"
+        }
+      },
+      {
+        "HashCode": 1909649625,
+        "Kind": "Components.Component",
+        "Name": "TTSfront_end.Pages.Employees",
+        "AssemblyName": "TTSfront-end",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "TTSfront_end.Pages.Employees"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TTSfront_end.Pages.Employees",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 150433799,
+        "Kind": "Components.Component",
+        "Name": "TTSfront_end.App",
+        "AssemblyName": "TTSfront-end",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TTSfront_end.App"
+        }
+      },
+      {
+        "HashCode": -722915642,
+        "Kind": "Components.Component",
+        "Name": "TTSfront_end.App",
+        "AssemblyName": "TTSfront-end",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "TTSfront_end.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TTSfront_end.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -13042,6 +13075,11 @@
   "RootNamespace": "TTSfront-end",
   "Documents": [
     {
+      "FilePath": "d:\\Front-end (matkul)\\TTSfront-end\\Pages\\Employees.razor",
+      "TargetPath": "Pages\\Employees.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "d:\\Front-end (matkul)\\TTSfront-end\\Shared\\MainLayout.razor",
       "TargetPath": "Shared\\MainLayout.razor",
       "FileKind": "component"
@@ -13077,8 +13115,8 @@
       "FileKind": "component"
     },
     {
-      "FilePath": "d:\\Front-end (matkul)\\TTSfront-end\\Pages\\department.razor",
-      "TargetPath": "Pages\\department.razor",
+      "FilePath": "d:\\Front-end (matkul)\\TTSfront-end\\Pages\\Department.razor",
+      "TargetPath": "Pages\\Department.razor",
       "FileKind": "component"
     },
     {

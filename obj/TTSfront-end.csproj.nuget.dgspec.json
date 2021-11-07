@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Front-end (matkul)\\TTSfront-end\\TTSfront-end.csproj": {}
+    "d:\\Front-end (matkul)\\TTSfront-end\\TTSfront-end.csproj": {}
   },
   "projects": {
-    "D:\\Front-end (matkul)\\TTSfront-end\\TTSfront-end.csproj": {
+    "d:\\Front-end (matkul)\\TTSfront-end\\TTSfront-end.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Front-end (matkul)\\TTSfront-end\\TTSfront-end.csproj",
+        "projectUniqueName": "d:\\Front-end (matkul)\\TTSfront-end\\TTSfront-end.csproj",
         "projectName": "TTSfront-end",
-        "projectPath": "D:\\Front-end (matkul)\\TTSfront-end\\TTSfront-end.csproj",
+        "projectPath": "d:\\Front-end (matkul)\\TTSfront-end\\TTSfront-end.csproj",
         "packagesPath": "C:\\Users\\chame\\.nuget\\packages\\",
-        "outputPath": "D:\\Front-end (matkul)\\TTSfront-end\\obj\\",
+        "outputPath": "d:\\Front-end (matkul)\\TTSfront-end\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chame\\AppData\\Roaming\\NuGet\\NuGet.Config"
